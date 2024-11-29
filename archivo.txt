@@ -1,0 +1,3 @@
+-----ULTIMA PARTIDA!-----
+Variable Inicial X: 440
+Variable Inicial Y: 63
